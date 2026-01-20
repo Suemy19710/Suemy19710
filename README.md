@@ -16,8 +16,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Suemy19710&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suemy19710&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
