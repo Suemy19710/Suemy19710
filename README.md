@@ -6,10 +6,10 @@
 </div>
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotslashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dotslashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotslashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotslashbit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suemy19710&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suemy19710&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suemy19710&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suemy19710&theme=github_dark)
 
 ---
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dotslashbit&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suemy19710&theme=github-dark-blue&hide_border=true)
 
 </div>
 
