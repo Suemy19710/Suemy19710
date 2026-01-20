@@ -2,7 +2,7 @@
 
 # Hi, I'm Linh Nguyen! 👋
 
-*ICT & Software Engineering | AI, ML Student @ Fontys University of Applied Science 
+ICT & Software Engineering | AI, ML Student @ Fontys University of Applied Science 
 </div>
 
 ---
