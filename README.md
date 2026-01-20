@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-- 🎓 Currently pursuing a Bachelor of ICT & Software Engineering at Fontys in the Netherlands.
+- 🎓 Currently second-year student pursuing a Bachelor of ICT & Software Engineering at Fontys in the Netherlands.
 - 🤖 Focused on Full-stack Development, Data Science 
 - 💻 Comfortable with:
 
@@ -20,8 +20,11 @@
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
   ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+  ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
   
   
   
