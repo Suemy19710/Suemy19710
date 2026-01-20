@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suemy19710&theme=github-dark-blue&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Suemy19710&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
