@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Suemy19710/Suemy19710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Linh Nguyen! 👋
 
-Here are some ideas to get you started:
+*ICT & Software Engineering | AI, ML Student @ Fontys University of Applied Science 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotslashbit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dotslashbit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotslashbit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotslashbit&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dotslashbit&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/linh-nguyen-nhat-khanh-377666357/)
+- 📧 **Email**: [n.nguyennhatkhanhlinh@student.fontys.nl](mailto:n.nguyennhatkhanhlinh@student.fontys.nl)
+- 🧠 Open to collaborations and **part-time opportunities in Web Development & Data Science**
