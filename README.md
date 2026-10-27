@@ -16,7 +16,7 @@ ICT & Software Engineering · AI & ML Student @ Fontys University of Applied Sci
 
 ## About
 
-Second-year Bachelor's student in **ICT & Software Engineering** at Fontys in the Netherlands, focused on **full-stack development** and **data science**. Open to collaborations and **part-time roles** in web development and data science.
+Third-year Bachelor's student in **ICT & Software Engineering** at Fontys in the Netherlands, focused on **full-stack development** and **data science**. Open to collaborations and **part-time roles** in web development and data science.
 
 ---
 
