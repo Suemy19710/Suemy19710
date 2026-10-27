@@ -22,8 +22,7 @@ Third-year Bachelor's student in **ICT & Software Engineering** at Fontys in the
 
 ## Builder Stack
 
-
-|---|---|
+| | |
 | **Focus** | Full-stack Development · Data Science · Machine Learning |
 | **Frontend** | React · Tailwind CSS · JavaScript · HTML5 |
 | **Backend** | Node.js · C# · Python · REST APIs |
